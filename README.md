@@ -83,9 +83,9 @@ UPDATE A EMPLOYEE ROLE
 
 ## TECHNOLOGY USED
 
-1.MySql
-2.Inquirer
-3.Node.js
+1. MySql
+2. Inquirer
+3. Node.js
 
 ## CREDITS
 
