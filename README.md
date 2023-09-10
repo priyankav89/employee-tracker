@@ -49,31 +49,31 @@ When you choose to update an employee role,Then you are prompted to select an em
 
 MAIN MENU 
 
-[![Screenshot](./assets/images/main%20menu.png)
+![Screenshot](./assets/images/main%20menu.png)
 
 VIEW ALL DEPARTMENTS 
 
-[![Screenshot](./assets/images/view-all-dept.png)
+![Screenshot](./assets/images/view-all-dept.png)
 
 VIEW ALL ROLES
 
-[![Screenshot](./assets/images/view-all-roles.png)
+![Screenshot](./assets/images/view-all-roles.png)
 
 VIEW ALL EMPLOYEES
 
-[![Screenshot](./assets/images/view-all-employees.png)
+![Screenshot](./assets/images/view-all-employees.png)
 
 ADD A ROLE
 
-[![Screenshot](./assets/images/add-role.png)
+![Screenshot](./assets/images/add-role.png)
 
 ADD A EMPLOYEE
 
-[![Screenshot](./assets/images/add-emp.png)
+![Screenshot](./assets/images/add-emp.png)
 
 UPDATE A EMPLOYEE ROLE
 
-[![Screenshot](./assets/images/update-emp-role.png)
+![Screenshot](./assets/images/update-emp-role.png)
 
 
 
