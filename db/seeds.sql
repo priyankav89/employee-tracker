@@ -31,6 +31,6 @@ VALUES
 ('Priya', 'Selva',3,1),
 ('Tammi', 'Will',4,2),
 ('Vivek', 'chitta',5,3),
-('Hannah', 'Tottum',6,3),
+('Hannah', 'Tottum',6,NULL),
 ('Sam', 'Henderson',7,4),
 ('Tom','Holland',8,4)
