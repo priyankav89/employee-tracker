@@ -89,6 +89,8 @@ UPDATE A EMPLOYEE ROLE
 
 ## CREDITS
 
+# REFERENCES 
+
 1. [MySql](https://www.mysql.com/)
 2. [Node.js](https://nodejs.org/en/docs)
 3. [Inquirer](https://www.npmjs.com/package/inquirer)
