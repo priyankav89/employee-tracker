@@ -80,6 +80,10 @@ UPDATE A EMPLOYEE ROLE
 ## WALKTHROUGH VIDEO
 
 
+https://github.com/priyankav89/employee-tracker/assets/127457597/c30609e6-0e83-41c8-a914-4c2a6d6c63f5
+
+
+
 
 ## TECHNOLOGY USED
 
